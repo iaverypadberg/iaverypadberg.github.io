@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d858afc0.chunk.css",
+    "main.js": "/static/js/main.d0a857d3.chunk.js",
+    "main.js.map": "/static/js/main.d0a857d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f951d28d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f951d28d.js.map",
+    "static/js/2.3604d2e6.chunk.js": "/static/js/2.3604d2e6.chunk.js",
+    "static/js/2.3604d2e6.chunk.js.map": "/static/js/2.3604d2e6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d858afc0.chunk.css.map": "/static/css/main.d858afc0.chunk.css.map",
+    "static/js/2.3604d2e6.chunk.js.LICENSE.txt": "/static/js/2.3604d2e6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/TheBoys.31372595.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f951d28d.js",
+    "static/js/2.3604d2e6.chunk.js",
+    "static/css/main.d858afc0.chunk.css",
+    "static/js/main.d0a857d3.chunk.js"
+  ]
+}
