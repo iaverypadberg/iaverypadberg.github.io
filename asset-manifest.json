@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.17056c6b.chunk.css",
-    "main.js": "/static/js/main.0ab46fe6.chunk.js",
-    "main.js.map": "/static/js/main.0ab46fe6.chunk.js.map",
+    "main.css": "/static/css/main.c3c24b38.chunk.css",
+    "main.js": "/static/js/main.037825c3.chunk.js",
+    "main.js.map": "/static/js/main.037825c3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f951d28d.js",
     "runtime-main.js.map": "/static/js/runtime-main.f951d28d.js.map",
     "static/js/2.5edd7e2b.chunk.js": "/static/js/2.5edd7e2b.chunk.js",
     "static/js/2.5edd7e2b.chunk.js.map": "/static/js/2.5edd7e2b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.17056c6b.chunk.css.map": "/static/css/main.17056c6b.chunk.css.map",
+    "static/css/main.c3c24b38.chunk.css.map": "/static/css/main.c3c24b38.chunk.css.map",
     "static/js/2.5edd7e2b.chunk.js.LICENSE.txt": "/static/js/2.5edd7e2b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/orange-cave.0eb1efd9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f951d28d.js",
     "static/js/2.5edd7e2b.chunk.js",
-    "static/css/main.17056c6b.chunk.css",
-    "static/js/main.0ab46fe6.chunk.js"
+    "static/css/main.c3c24b38.chunk.css",
+    "static/js/main.037825c3.chunk.js"
   ]
 }
