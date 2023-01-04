@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.910971d8.css",
-    "main.js": "/static/js/main.26ba583f.js",
+    "main.css": "/static/css/main.21ad437d.css",
+    "main.js": "/static/js/main.71ca88e9.js",
     "static/media/france2.jpg": "/static/media/france2.8f49cb1a75364db7de53.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
@@ -21,11 +21,11 @@
     "static/media/a_new_earth.jpg": "/static/media/a_new_earth.77bbec28bd2a9b9c487e.jpg",
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "index.html": "/index.html",
-    "main.910971d8.css.map": "/static/css/main.910971d8.css.map",
-    "main.26ba583f.js.map": "/static/js/main.26ba583f.js.map"
+    "main.21ad437d.css.map": "/static/css/main.21ad437d.css.map",
+    "main.71ca88e9.js.map": "/static/js/main.71ca88e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.910971d8.css",
-    "static/js/main.26ba583f.js"
+    "static/css/main.21ad437d.css",
+    "static/js/main.71ca88e9.js"
   ]
 }
