@@ -1,31 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.21ad437d.css",
-    "main.js": "/static/js/main.71ca88e9.js",
-    "static/media/france2.jpg": "/static/media/france2.8f49cb1a75364db7de53.jpg",
+    "main.css": "/static/css/main.c4e9eef8.css",
+    "main.js": "/static/js/main.2e59a7d0.js",
+    "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
     "static/media/Osprey-3.jpg": "/static/media/Osprey-3.7dd708fe18832bb37211.jpg",
+    "static/media/figma.png": "/static/media/figma.39107a258f40570914ad.png",
     "static/media/Osprey-2.jpg": "/static/media/Osprey-2.7a8d7b0a73529e67698f.jpg",
     "static/media/runner.png": "/static/media/runner.900a16416ef364f66fca.png",
-    "static/media/france1.jpg": "/static/media/france1.8813cf61a1084c177c29.jpg",
     "static/media/fisher-bird-3.jpg": "/static/media/fisher-bird-3.6b07d228600f9bbd93a5.jpg",
     "static/media/books-thin.png": "/static/media/books-thin.27a44a876c274d4bd2dc.png",
     "static/media/Moon.jpg": "/static/media/Moon.6066350650d97c6ec838.jpg",
-    "static/media/Blackred bird.jpg": "/static/media/Blackred bird.810fef30e69946b3ee35.jpg",
     "static/media/fisher-bird-2.jpg": "/static/media/fisher-bird-2.45420d4415bdec177118.jpg",
+    "static/media/bike-race.jpg": "/static/media/bike-race.343063dad1cb4ad3d158.jpg",
+    "static/media/SpaghettiStats.png": "/static/media/SpaghettiStats.66013c25d69056b3c264.png",
+    "static/media/fisher-bird-1.jpg": "/static/media/fisher-bird-1.9a59807cdad807eb250f.jpg",
     "static/media/isaac-boat.jpg": "/static/media/isaac-boat.9dccd6450d1865c7f2df.jpg",
+    "static/media/deep.png": "/static/media/deep.82a34c6280f0a9643433.png",
+    "static/media/isaac.jpg": "/static/media/isaac.215aac16b9bc06fe2bf9.jpg",
     "static/media/isaacProfile.jpg": "/static/media/isaacProfile.d6ca4db9f23c7f8bf6e8.jpg",
     "static/media/helmet.png": "/static/media/helmet.13b20ccb7567a109a8d9.png",
     "static/media/seven_spiritual_laws.jpg": "/static/media/seven_spiritual_laws.08f1849771909df45e9d.jpg",
+    "static/media/bottle_zoomed.jpg": "/static/media/bottle_zoomed.3c2d0f4b6ce7d53cb067.jpg",
     "static/media/a_new_earth.jpg": "/static/media/a_new_earth.77bbec28bd2a9b9c487e.jpg",
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "index.html": "/index.html",
-    "main.21ad437d.css.map": "/static/css/main.21ad437d.css.map",
-    "main.71ca88e9.js.map": "/static/js/main.71ca88e9.js.map"
+    "main.c4e9eef8.css.map": "/static/css/main.c4e9eef8.css.map",
+    "main.2e59a7d0.js.map": "/static/js/main.2e59a7d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.21ad437d.css",
-    "static/js/main.71ca88e9.js"
+    "static/css/main.c4e9eef8.css",
+    "static/js/main.2e59a7d0.js"
   ]
 }
