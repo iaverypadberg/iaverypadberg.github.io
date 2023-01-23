@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a722dc04.css",
-    "main.js": "/static/js/main.efb6ffc3.js",
+    "main.css": "/static/css/main.b2f7ed9d.css",
+    "main.js": "/static/js/main.dd5bc812.js",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
     "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
@@ -18,6 +18,7 @@
     "static/media/SpaghettiStats.png": "/static/media/SpaghettiStats.66013c25d69056b3c264.png",
     "static/media/fisher-bird-1.jpg": "/static/media/fisher-bird-1.9a59807cdad807eb250f.jpg",
     "static/media/isaac-boat.jpg": "/static/media/isaac-boat.9dccd6450d1865c7f2df.jpg",
+    "static/media/9v_side_len_by_confidence.jpg": "/static/media/9v_side_len_by_confidence.22b4bb0d33fd78a3b932.jpg",
     "static/media/deep.png": "/static/media/deep.82a34c6280f0a9643433.png",
     "static/media/isaac.jpg": "/static/media/isaac.215aac16b9bc06fe2bf9.jpg",
     "static/media/isaacProfile.jpg": "/static/media/isaacProfile.d6ca4db9f23c7f8bf6e8.jpg",
@@ -28,11 +29,11 @@
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "static/media/bike-race.jpg": "/static/media/bike-race.b3b4244cd7485e5b3fca.jpg",
     "index.html": "/index.html",
-    "main.a722dc04.css.map": "/static/css/main.a722dc04.css.map",
-    "main.efb6ffc3.js.map": "/static/js/main.efb6ffc3.js.map"
+    "main.b2f7ed9d.css.map": "/static/css/main.b2f7ed9d.css.map",
+    "main.dd5bc812.js.map": "/static/js/main.dd5bc812.js.map"
   },
   "entrypoints": [
-    "static/css/main.a722dc04.css",
-    "static/js/main.efb6ffc3.js"
+    "static/css/main.b2f7ed9d.css",
+    "static/js/main.dd5bc812.js"
   ]
 }
