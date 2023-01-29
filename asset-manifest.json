@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.af8d96e2.css",
-    "main.js": "/static/js/main.14a56638.js",
+    "main.css": "/static/css/main.9a501ca1.css",
+    "main.js": "/static/js/main.10849533.js",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
+    "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
@@ -29,11 +30,11 @@
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "static/media/bike-race.jpg": "/static/media/bike-race.b3b4244cd7485e5b3fca.jpg",
     "index.html": "/index.html",
-    "main.af8d96e2.css.map": "/static/css/main.af8d96e2.css.map",
-    "main.14a56638.js.map": "/static/js/main.14a56638.js.map"
+    "main.9a501ca1.css.map": "/static/css/main.9a501ca1.css.map",
+    "main.10849533.js.map": "/static/js/main.10849533.js.map"
   },
   "entrypoints": [
-    "static/css/main.af8d96e2.css",
-    "static/js/main.14a56638.js"
+    "static/css/main.9a501ca1.css",
+    "static/js/main.10849533.js"
   ]
 }
