@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a501ca1.css",
-    "main.js": "/static/js/main.10849533.js",
+    "main.css": "/static/css/main.1ba037bc.css",
+    "main.js": "/static/js/main.e3ebe6bf.js",
+    "static/media/frisbee_website.mov": "/static/media/frisbee_website.678fec7020d189082f03.mov",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
@@ -16,6 +17,7 @@
     "static/media/books-thin.png": "/static/media/books-thin.27a44a876c274d4bd2dc.png",
     "static/media/Moon.jpg": "/static/media/Moon.6066350650d97c6ec838.jpg",
     "static/media/fisher-bird-2.jpg": "/static/media/fisher-bird-2.45420d4415bdec177118.jpg",
+    "static/media/uvm_frisbee_figma.png": "/static/media/uvm_frisbee_figma.dc56aa4e78948ae1c1f7.png",
     "static/media/SpaghettiStats.png": "/static/media/SpaghettiStats.66013c25d69056b3c264.png",
     "static/media/fisher-bird-1.jpg": "/static/media/fisher-bird-1.9a59807cdad807eb250f.jpg",
     "static/media/isaac-boat.jpg": "/static/media/isaac-boat.9dccd6450d1865c7f2df.jpg",
@@ -30,11 +32,11 @@
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "static/media/bike-race.jpg": "/static/media/bike-race.b3b4244cd7485e5b3fca.jpg",
     "index.html": "/index.html",
-    "main.9a501ca1.css.map": "/static/css/main.9a501ca1.css.map",
-    "main.10849533.js.map": "/static/js/main.10849533.js.map"
+    "main.1ba037bc.css.map": "/static/css/main.1ba037bc.css.map",
+    "main.e3ebe6bf.js.map": "/static/js/main.e3ebe6bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a501ca1.css",
-    "static/js/main.10849533.js"
+    "static/css/main.1ba037bc.css",
+    "static/js/main.e3ebe6bf.js"
   ]
 }
