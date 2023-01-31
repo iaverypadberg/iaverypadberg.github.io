@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ba037bc.css",
-    "main.js": "/static/js/main.745af5f2.js",
+    "main.css": "/static/css/main.a00b4396.css",
+    "main.js": "/static/js/main.bc14b616.js",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
@@ -31,11 +31,11 @@
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "static/media/bike-race.jpg": "/static/media/bike-race.b3b4244cd7485e5b3fca.jpg",
     "index.html": "/index.html",
-    "main.1ba037bc.css.map": "/static/css/main.1ba037bc.css.map",
-    "main.745af5f2.js.map": "/static/js/main.745af5f2.js.map"
+    "main.a00b4396.css.map": "/static/css/main.a00b4396.css.map",
+    "main.bc14b616.js.map": "/static/js/main.bc14b616.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ba037bc.css",
-    "static/js/main.745af5f2.js"
+    "static/css/main.a00b4396.css",
+    "static/js/main.bc14b616.js"
   ]
 }
