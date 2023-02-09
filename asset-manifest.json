@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a00b4396.css",
-    "main.js": "/static/js/main.2285a1e3.js",
+    "main.css": "/static/css/main.95b67435.css",
+    "main.js": "/static/js/main.f3719ba2.js",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
@@ -30,12 +30,13 @@
     "static/media/a_new_earth.jpg": "/static/media/a_new_earth.77bbec28bd2a9b9c487e.jpg",
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
     "static/media/bike-race.jpg": "/static/media/bike-race.b3b4244cd7485e5b3fca.jpg",
+    "static/media/side_bar.svg": "/static/media/side_bar.e5aba6a319f16fe9d08d.svg",
     "index.html": "/index.html",
-    "main.a00b4396.css.map": "/static/css/main.a00b4396.css.map",
-    "main.2285a1e3.js.map": "/static/js/main.2285a1e3.js.map"
+    "main.95b67435.css.map": "/static/css/main.95b67435.css.map",
+    "main.f3719ba2.js.map": "/static/js/main.f3719ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a00b4396.css",
-    "static/js/main.2285a1e3.js"
+    "static/css/main.95b67435.css",
+    "static/js/main.f3719ba2.js"
   ]
 }
