@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb6a2d30.css",
-    "main.js": "/static/js/main.6fdf24a5.js",
+    "main.css": "/static/css/main.f603e773.css",
+    "main.js": "/static/js/main.b08fe7d8.js",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/graduation.jpg": "/static/media/graduation.09cf7b403fa600bc5788.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
     "static/media/Osprey-3.jpg": "/static/media/Osprey-3.7dd708fe18832bb37211.jpg",
+    "static/media/Isaac-Padberg-Fire.svg": "/static/media/Isaac-Padberg-Fire.f6c7265544127837da619467c18dadc8.svg",
     "static/media/figma.png": "/static/media/figma.39107a258f40570914ad.png",
     "static/media/Osprey-2.jpg": "/static/media/Osprey-2.7a8d7b0a73529e67698f.jpg",
     "static/media/runner.png": "/static/media/runner.900a16416ef364f66fca.png",
@@ -37,11 +38,11 @@
     "static/media/top-dec2.svg": "/static/media/top-dec2.eb3d9238195c48febb27.svg",
     "static/media/divider_1.svg": "/static/media/divider_1.a4ffe3f05e6ec5262285.svg",
     "index.html": "/index.html",
-    "main.cb6a2d30.css.map": "/static/css/main.cb6a2d30.css.map",
-    "main.6fdf24a5.js.map": "/static/js/main.6fdf24a5.js.map"
+    "main.f603e773.css.map": "/static/css/main.f603e773.css.map",
+    "main.b08fe7d8.js.map": "/static/js/main.b08fe7d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6a2d30.css",
-    "static/js/main.6fdf24a5.js"
+    "static/css/main.f603e773.css",
+    "static/js/main.b08fe7d8.js"
   ]
 }
