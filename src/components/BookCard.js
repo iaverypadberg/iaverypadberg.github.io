@@ -5,7 +5,7 @@ const BookCard = (props) => {
         <div classname="flex flex-col items-center">
 
             <a href={props.link} target="_blank" className='group'>
-                <div className=' '>
+                <div className='border-2 border-gray-500 hover:opacity-70 ease-in duration-200'>
                     {props.image}
                 </div>
 

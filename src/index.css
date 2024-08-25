@@ -6,12 +6,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @layer base {
-    @font-face {
-        font-family: 'Italiano';
-        src: url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
-    }
-} */
 
 @layer components {
     .card {
@@ -29,4 +23,31 @@
     .tealcard {
         background: rgb(48, 84, 108, 0.6)
     }
+}
+
+.custom-shape-divider-top-1675882081 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.divider {
+    aspect-ratio: 1200/350;
+
+}
+
+.divider2 {
+    aspect-ratio: 1200/250;
+
+}
+
+.sidebar-s {
+    aspect-ratio: 350/900;
+}
+
+.sidebar-m {
+    aspect-ratio: 650/1800;
 }

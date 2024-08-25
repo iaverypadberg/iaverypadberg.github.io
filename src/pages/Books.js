@@ -12,14 +12,14 @@ const Books = () => {
             <div className='flex flex-col items-center justify-center'>
                 <ResponsiveTextHeaderMain text="Writing" />
                 <div className='m-2'>
-                    <MainLink linkTo="/construction" text="Impatience" />
+                    <MainLink linkTo="/books/impatience" text="Impatience" />
                 </div>
-                <div className='m-2'>
+                {/* <div className='m-2'>
                     <MainLink linkTo="/construction" text="Meditation" />
                 </div>
                 <div className='m-2'>
                     <MainLink linkTo="/construction" text="Soccer maybe" />
-                </div>
+                </div> */}
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <div className='m-5'>
@@ -35,7 +35,7 @@ I should probably start with making it look good for mobile phone though. Then m
                         author="Deepok Chopra"
                         review="This book is essential for a balanced development."
                         link='https://www.amazon.com/Seven-Spiritual-Laws-Success/dp/B0000548LZ/ref=sr_1_1?gclid=EAIaIQobChMIypH0o87v-wIVFa_ICh2axglVEAAYAiAAEgIumfD_BwE&hvadid=174223377746&hvdev=c&hvlocphy=9003006&hvnetw=g&hvqmt=e&hvrand=8205079622100441369&hvtargid=kwd-1137031232&hydadcr=24602_9648846&keywords=the+7+spiritual+laws+of+success&qid=1670694583&sr=8-1'
-                        image=<img className='bg-seven-spiritual bg-cover h-96 w-96' />
+                        image=<img className='bg-seven-spiritual bg-cover h-96 w-96 ' />
                     />
 
                     <BookCard

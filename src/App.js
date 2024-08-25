@@ -5,25 +5,34 @@ import Projects from './pages/Projects';
 import Bonus from './pages/Bonus';
 import Books from './pages/Books';
 import ProfessionalExperience from './pages/ProfessionalExperience';
-import { Route, Link, BrowserRouter, Routes } from 'react-router-dom'
+import { Route, Link, BrowserRouter, Routes, HashRouter } from 'react-router-dom'
 import Contact from './pages/Contact';
 import UnderConstruction from './pages/UnderConstruction';
+import Impatience from './pages/writing/Impatience';
+import Skills from './pages/Skills';
+import Testing from './pages/Testing';
+import Resume from './pages/Resume';
 function App() {
   return (
-    <BrowserRouter basename='/iap'>
-      <Routes>
-        <Route path="/home" exact element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/task" element={<About />} />
-        <Route path="/professional-exp" element={<ProfessionalExperience />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/books" element={<Books />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/bonus" element={<Bonus />} />
-        <Route path="/construction" element={<UnderConstruction />} />
+    <div>
+      <HashRouter >
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/professional-exp" element={<ProfessionalExperience />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/books" element={<Books />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/bonus" element={<Bonus />} />
+          <Route path="/skills" element={<Skills />} />
+          <Route path="/resume" element={<Resume />} />
+          <Route path="/books/impatience" element={<Impatience />} />
+          <Route path="/construction" element={<UnderConstruction />} />
+          <Route path="/testing" element={<Testing />} />
 
-      </Routes>
-    </BrowserRouter>
+        </Routes>
+      </HashRouter>
+    </div>
   );
 }
 
