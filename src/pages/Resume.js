@@ -1,5 +1,5 @@
 import React from 'react'
-import resume_pdf from '../assets/Isaac-Padberg-Fire.pdf'
+import resume_pdf from '../assets/resume.pdf'
 
 const Resume = () => {
     return (
