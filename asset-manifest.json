@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.74cf0501.css",
-    "main.js": "/static/js/main.04bdc4db.js",
+    "main.css": "/static/css/main.d08774f0.css",
+    "main.js": "/static/js/main.3b3bea84.js",
     "static/media/responsive_design_clip.mp4": "/static/media/responsive_design_clip.3157cbd8210aa4476158.mp4",
     "static/media/cali.jpeg": "/static/media/cali.690c8f932470431c2bd8.jpeg",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/irr.jpg": "/static/media/irr.eef618538ec4f8edf594.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
-    "static/media/Isaac-Padberg-Fire.pdf": "/static/media/Isaac-Padberg-Fire.242e078a8645f8fcae1c.pdf",
     "static/media/overland.jpg": "/static/media/overland.897316dc0e45fa0711aa.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
     "static/media/Osprey-3.jpg": "/static/media/Osprey-3.7dd708fe18832bb37211.jpg",
     "static/media/disc.jpg": "/static/media/disc.999ab0d2195b7048b906.jpg",
     "static/media/figma.png": "/static/media/figma.39107a258f40570914ad.png",
     "static/media/Osprey-2.jpg": "/static/media/Osprey-2.7a8d7b0a73529e67698f.jpg",
+    "static/media/resume.pdf": "/static/media/resume.f497e0dd42c8b0e0f503.pdf",
     "static/media/runner.png": "/static/media/runner.900a16416ef364f66fca.png",
     "static/media/profile.jpg": "/static/media/profile.673909b57140838020c4.jpg",
     "static/media/curious.jpg": "/static/media/curious.752d3adc3cdb4a0d7d1a.jpg",
@@ -41,11 +41,11 @@
     "static/media/top-dec2.svg": "/static/media/top-dec2.eb3d9238195c48febb27.svg",
     "static/media/divider_1.svg": "/static/media/divider_1.a4ffe3f05e6ec5262285.svg",
     "index.html": "/index.html",
-    "main.74cf0501.css.map": "/static/css/main.74cf0501.css.map",
-    "main.04bdc4db.js.map": "/static/js/main.04bdc4db.js.map"
+    "main.d08774f0.css.map": "/static/css/main.d08774f0.css.map",
+    "main.3b3bea84.js.map": "/static/js/main.3b3bea84.js.map"
   },
   "entrypoints": [
-    "static/css/main.74cf0501.css",
-    "static/js/main.04bdc4db.js"
+    "static/css/main.d08774f0.css",
+    "static/js/main.3b3bea84.js"
   ]
 }
