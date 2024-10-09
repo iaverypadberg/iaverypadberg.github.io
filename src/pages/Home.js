@@ -12,7 +12,7 @@ import ResponsiveTextHeader from '../components/ResponsiveTextHeader'
 const Home = () => {
     return (
         <div className='flex flex-col items-center'>
-            <h1 className='font-heading text-center text-3xl mt-10 sm:text-4xl md:text-5xl lg:text-6xl'>
+            <h1 className='font-heading text-center text-3xl mt-10 sm:text-4xl md:text-5xl lg:text-5xl'>
                 <span className='text-rainbow-100'>i</span>
                 <span className='text-rainbow-200'>s</span>
                 <span className='text-rainbow-300'>A</span>

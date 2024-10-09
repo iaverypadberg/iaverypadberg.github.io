@@ -36,6 +36,25 @@ const Skills = () => {
                             </li>
                         </ul>
                     </div>
+
+
+
+                    <div className='flex flex-col my-2 items-start p-2'>
+                        <h2 className='font-main text-xl'>Edge Computing</h2>
+                        <ul className='ml-5'>
+                            <li className='p-2'>
+                                <p className='font-bold'>Resource Constrained ML</p>
+                                <p className='px-2'>Small computers have to run small models, write about the tradespace and my experience with it.</p>
+                            </li>
+                            <li className='p-2'>
+                                <p className='font-bold'>Architectural design</p>
+                                <p className='px-2'>Designing the system to get the most out of the hardware is essential to a high performing edge device</p>
+                            </li>
+                        </ul>
+                    </div>
+
+
+
                     <div className='flex flex-col m-2 items-start p-2'>
                         <h2 className='font-main text-xl'>Website Design</h2>
                         <ul className='ml-5'>
