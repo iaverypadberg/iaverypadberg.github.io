@@ -19,6 +19,41 @@ const Projects = () => {
             />
 
             <ProjectCard
+<<<<<<< HEAD
+=======
+                header={<a href='https://medium.com/@iaverypadberg/is-emotion-a-function-of-behavior-i-tried-to-find-out-for-myself-d9ee848c3806'>Behavior Tracking & Analysis</a>}
+                date='06/10/2024'
+                github='https://medium.com/@iaverypadberg/is-emotion-a-function-of-behavior-i-tried-to-find-out-for-myself-d9ee848c3806'
+                linkName="Medium Post"
+                body="A 6-month project aimed at investigating the connection between behavior and emotions. This project went really well and i'm excited that it concluded in a successful manner. I’ll be doing a follow up project as a sort of version 2 with improved data collection and analysis."
+            />
+
+        <ProjectCard
+                header='User Authentication Using Json Web Tokens'
+                date='08/18/2021'
+                body={<p>Some web applications require users to login before they can access the full functionality of the webpage. I was interested in what the login process actually looked like, so I decided to build by own web app with a user login. I made a <a className="text-blue-400 hover:underline font-light" href="https://github.com/iaverypadberg/Basic-Passport-Auth" target="_blank">GitHub repository</a>  for this web app, where I wrote a detailed <a className="text-blue-400 hover:underline font-light" href="https://github.com/iaverypadberg/Basic-Passport-Auth/blob/master/README.md" target="_blank"> readme </a> about the project. In the readme I talk about the front-end and back-end builds, the passport library used for authentication, and a couple bugs that were such a pain. During this project I learned a lot about website security, http requests, the JWT lifecycle, and the overall user login/logout process.</p>}
+                github='https://github.com/iaverypadberg/Basic-Passport-Auth'
+                linkName="GitHub"
+            />
+
+            <ProjectCard
+                header='UVM Mens Frisbee Website'
+                date='01/29/2023'
+                imageTitle="Wireframe mockup"
+                image={<img src={require("../assets/uvm_frisbee_figma.png")} alt='uvm website video' className='w-full md:w-5/6' />}
+                body="This is a website I've been working on when I have the time. Its built using React, Tailwind-CSS, HTML and Javascript. I also used figma to create wireframe mockups for this website, but have also been changing the design as I go. It's all hand built with no present components or UI layouts. In the future, I think that creating a libary of components I like to use would be an efficient use of my time."
+            />
+
+
+            <ProjectCard
+                header='Learning Pandas for Data Analysis'
+                date='01/15/2023'
+                body={<p>One of my recent projects/tasks at Deep Analytics is in the realm of data analysis. Collecting, cleaning, structuring, graphing, and information extraction from the data are all key parts of this project. To help with this project and future projects, I’ve enrolled in a <a className='text-blue-400 hover:underline font-light' href='https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/'>Udemy course</a> aimed at learning the pandas library(python). It includes all of the tools required to clean, manipulate, restructure and filter data. While this library is most commonly used in the data science and machine learning world, its basic functionality is perfect for rudimentary data analysis projects.</p>}
+                body1={<p>This 30 hr <a className='text-blue-400 hover:underline font-light' href='https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/'>online course</a> is not exhaustive, but has provided me with a solid foundation which I hope to build on in the future.</p>}
+            />
+
+            <ProjectCard
+>>>>>>> 5ad38701e6be8a06c9427b1c6e108cd2ba0e8ae8
                 header='COCO Dataset Analysis'
                 date='12/15/2022'
                 imageTitle="Right skewed distribution of bottle side lengths"
