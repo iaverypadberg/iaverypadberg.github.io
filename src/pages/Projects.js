@@ -19,16 +19,19 @@ const Projects = () => {
             />
 
             <ProjectCard
+                header={<a href='https://medium.com/@iaverypadberg/is-emotion-a-function-of-behavior-i-tried-to-find-out-for-myself-d9ee848c3806'>Behavior Tracking & Analysis</a>}
+                date='06/10/2024'
+                github='https://medium.com/@iaverypadberg/is-emotion-a-function-of-behavior-i-tried-to-find-out-for-myself-d9ee848c3806'
+                linkName="Medium Post"
+                body="A 6-month project aimed at investigating the connection between behavior and emotions. This project went really well and i'm excited that it concluded in a successful manner. I’ll be doing a follow up project as a sort of version 2 with improved data collection and analysis."
+            />
+
+        <ProjectCard
                 header='User Authentication Using Json Web Tokens'
                 date='08/18/2021'
                 body={<p>Some web applications require users to login before they can access the full functionality of the webpage. I was interested in what the login process actually looked like, so I decided to build by own web app with a user login. I made a <a className="text-blue-400 hover:underline font-light" href="https://github.com/iaverypadberg/Basic-Passport-Auth" target="_blank">GitHub repository</a>  for this web app, where I wrote a detailed <a className="text-blue-400 hover:underline font-light" href="https://github.com/iaverypadberg/Basic-Passport-Auth/blob/master/README.md" target="_blank"> readme </a> about the project. In the readme I talk about the front-end and back-end builds, the passport library used for authentication, and a couple bugs that were such a pain. During this project I learned a lot about website security, http requests, the JWT lifecycle, and the overall user login/logout process.</p>}
                 github='https://github.com/iaverypadberg/Basic-Passport-Auth'
                 linkName="GitHub"
-            />
-            <ProjectCard
-                header='Object Detection Live Stream'
-                date='02/17/2023'
-                body='This android app is part of a larger project at Deep Analytics, which is aimed at deploying a computer vision model on an edge device. Included in this is an android display module, which gives the user the option to display a live video feed, or select a more passive mode which only alerts the user when something is detected. Tasked with designing and building this display module, I engaged in 3 week long sprints where I continually improved the UI design, functionality, and code documentation. This app will be deployed in a production environment this coming year, where I hope to see my hard work pay off.'
             />
 
             <ProjectCard
