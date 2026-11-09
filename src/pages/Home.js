@@ -26,14 +26,14 @@ const Home = () => {
                 <span className='text-rainbow-100'>g</span>
             </h1>
             <div className='bg-profile bg-cover rounded-full h-32 w-32 mt-5 sm:h-40 sm:w-40 md:h-48 md:w-48 lg:hidden' />
-            <h2 className='hidden lg:flex lg:text-2xl font-main mt-5 italic'>Everyone takes the limits of his own vision for the limits of the world.</h2>
-            <div>Hi! I'm Isaac. I'm after a full life and a problems worth solving.</div>
+
+            <div className='mt-5'>Hi! I'm Isaac. I'm after a full life and a better world.</div>
             <div className='hidden lg:flex flex-row items-center lg:h-fit w-4/5 z-10'>
                 <Link to='/professional-exp' className='flex flex-col justify-center items-center bg-runner bg-cover bg-right my-10 lg:h-96 lg:w-1/3 ease-in duration-200 hover:opacity-90 hover:-translate-y-1'>
                     <p className='font-main text-4xl text-white text-center'>Professional Experience</p>
                 </Link>
 
-                <Link to='/about' className='flex flex-col justify-center items-center bg-isaac-profile bg-cover bg-right my-10 lg:h-96 lg:w-1/3 ease-in duration-200 hover:opacity-90 hover:-translate-y-1 '>
+                <Link to='/about' className='flex flex-col justify-center items-center bg-isaac-profile2 bg-cover bg-right my-10 lg:h-96 lg:w-1/3 ease-in duration-200 hover:opacity-90 hover:-translate-y-1 '>
                     <p className='font-main text-4xl text-white text-center'>About Me</p>
                 </Link>
 
@@ -75,6 +75,8 @@ const Home = () => {
                 <SmallNavButton linkName="/resume" text="Resumé" addStyle="hover:bg-blue-200" />
                 <SmallNavButton linkName="/bonus" text="Bonus" addStyle="hover:bg-blue-200" />
             </div>
+
+            <h2 className='hidden lg:flex lg:text-2xl font-main mt-2 mb-5 italic'>Everyone takes the limits of his own vision for the limits of the world.</h2>
         </div>
 
     )

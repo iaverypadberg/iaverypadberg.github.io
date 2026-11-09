@@ -26,6 +26,7 @@ module.exports = {
         'runner': "url('/src/assets/runner.png')",
         'isaac-boat': "url('/src/assets/isaac-boat.jpg')",
         'isaac-profile': "url('/src/assets/about/profile.jpg')",
+        'isaac-profile2': "url('/src/assets/about/ski.jpg')",
         'france1': "url('/src/assets/google-photos/france1.jpg')",
         'france2': "url('/src/assets/google-photos/france2.jpg')",
         'france3': "url('/src/assets/google-photos/france3.jpg')",
