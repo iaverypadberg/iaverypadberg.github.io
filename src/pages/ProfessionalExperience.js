@@ -7,14 +7,14 @@ import TextEntry from '../components/TextEntry'
 const ProfessionalExperience = () => {
 
     return (
-        <div className='flex flex-col bg-top-dec2 bg-no-repeat bg-contain divider2'>
+        <div className='flex flex-col bg-no-repeat bg-contain divider2'>
             {/* mt-12 sm:mt-28 md:mt-36 lg:mt-48 */}
-            <h1 className='font-heading text-xl md:text-2xl lg:text-4xl text-center font-bold text-off-white mt-4'>Professional Experience</h1>
+            <h1 className='font-heading text-xl md:text-2xl lg:text-4xl text-center font-bold text-black mt-4'>Professional Experience</h1>
 
             <TextEntry
-                header="Machine Learning/Software Engineer"
+                header="Software Engineer/Computer Vision"
                 company="Deep Analytics"
-                timeline="01/10/2022 to Current"
+                timeline="01/10/2022 to 08/10/2026"
                 location="Montpelier, VT"
             />
             <div className='flex flex-col md:flex-row justify-evenly'>
