@@ -66,17 +66,16 @@ const Home = () => {
 
                 <div className='flex flex-row justify-evenly w-screen my-8'>
                     <SmallNavButton linkName="/contact" text="Contact" />
-                    <SmallNavButton linkName="/resume" text="Resumé" addStyle="hover:bg-blue-200" />
+                    <SmallNavButton linkName="/resume" text="Resume" addStyle="hover:bg-blue-200" />
                     <SmallNavButton linkName="/bonus" text="Bonus" addStyle="hover:bg-blue-200" />
                 </div>
             </div>
             <div className='hidden lg:flex flex-row justify-evenly w-screen my-8 font-main font-thin'>
                 <SmallNavButton linkName="/contact" text="Contact" />
-                <SmallNavButton linkName="/resume" text="Resumé" addStyle="hover:bg-blue-200" />
+                <SmallNavButton linkName="/resume" text="Resume" addStyle="hover:bg-blue-200" />
                 <SmallNavButton linkName="/bonus" text="Bonus" addStyle="hover:bg-blue-200" />
             </div>
-
-            <h2 className='hidden lg:flex lg:text-2xl font-main mt-2 mb-5 italic'>Everyone takes the limits of his own vision for the limits of the world.</h2>
+            <h2 className='hidden lg:flex font-main mt-5 mb-5 italic'>Fear of failure is my kraken.</h2>
         </div>
 
     )
