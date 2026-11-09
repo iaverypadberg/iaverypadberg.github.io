@@ -25,6 +25,7 @@ module.exports = {
         'moon': "url('/src/assets/Moon.jpg')",
         'runner': "url('/src/assets/runner.png')",
         'isaac-boat': "url('/src/assets/isaac-boat.jpg')",
+        'isaac-profile': "url('/src/assets/about/profile.jpg')",
         'france1': "url('/src/assets/google-photos/france1.jpg')",
         'france2': "url('/src/assets/google-photos/france2.jpg')",
         'france3': "url('/src/assets/google-photos/france3.jpg')",
@@ -54,7 +55,7 @@ module.exports = {
       }
     },
     fontFamily: {
-      main: ['Italiana', 'serif'],
+      main: ['Aboreto', 'serif'],
       heading: ['Major Mono Display', 'monospace'],
       body: ['Jost', 'sans-serif'],
     }

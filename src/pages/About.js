@@ -7,15 +7,11 @@ const About = () => {
 
 
             <div className='mt-5 mx-10 font-body text-m font-normal'>
-                I’ve called Vermont home for the majority of my life, save a 6 month trip to Utah to be a ski bum and a semester abroad in the Czech Republic's beautiful city of Brno. 6 months after graduating from the University of Vermont in 2021 I was hired at Deep Analytics(DA) and have worked there since. DA is a small R&D firm that requires employees to be flexible learners. As such, I’ve been blessed with a healthy amount of learning opportunities and new skill acquisition.
+                Vermont has been my home for as long as I can remember, and I love it here. I do my best to structure my free time around being outside and enjoying each of the wonderful seasons in VT so that when I’m old I won't have any regrets about being a couch potato. That time outdoors usually takes the form of a pickup soccer game, a bike ride, or the occasional trail run up one of Vermont's beautiful Green Mountains. To sustain such cardio intensive activities I’ve become something of a food fanatic.
             </div>
 
             <div className='mt-5 mx-10 font-body text-m font-normal'>
-                In my time away from work I like to get outside, work on side projects, read, and play the violin. My outside time usually takes the form of a pickup soccer game, a bike ride, or the occasional trail run up one of Vermont's beautiful Green Mountains. Spring and summer are my favorite seasons because the days are long and the outdoor activities are endless. I consider myself to be a food fanatic.
-            </div>
-
-            <div className='mt-5 mx-10 font-body text-m font-normal'>
-                <span className='font-extrabold underline'>Learning</span> - I’ve made it a primary goal of mine to be a lifelong learner. There is nothing more satisfying than learning a new skill and putting it to good use. The various learning avenues available to us in the modern world is astounding. Recently, I have found particular value and joy in attending online courses, taking violin lessons, and exploring the field of psychoanalytic therapy.
+                <span className='font-extrabold underline'>Learning</span> - I’ve made it a primary goal of mine to be a lifelong learner. There is nothing more satisfying than learning a new skill and putting it to good use. The various learning avenues available to us in the modern world is astounding. Recently, I’ve been taking violin lessons and exploring the field of psychoanalytic therapy.
             </div>
 
             <div className='mt-5 mx-10 font-body text-m font-normal'>
@@ -30,10 +26,10 @@ const About = () => {
             <div className='flex flex-row items-start justify-evenly m-5 font-body'>
 
                 <div className='m-5'>
-                    <h2 className='text-lg'>Here are some Characteristics I’m working to grow in myself</h2>
+                    <h2 className='text-lg'>Here are some characteristics I’m cultivating within myself</h2>
                     <ul className='list-disc m-5'>
                         <li>Level-headed problem solving</li>
-                        <li>Openness to new things</li>
+                        <li>Openness to new ways of looking at things</li>
                         <li>Enjoyment of learning</li>
                         <li>Thoughtfulness of those around me</li>
                     </ul>
