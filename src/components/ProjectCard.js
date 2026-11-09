@@ -4,7 +4,7 @@ const ProjectCard = (props) => {
     return (
         <div>
             <div className='flex flex-col items-center'>
-                <div className='m-5'>
+                <div className='m-5 max-w-6xl'>
                     <div className='font-body font-light m-5'>
                         <h2 className='text-xl font-main underline underline-offset-4'>{props.header}</h2>
                         <h3 className='text-md'>{props.date}</h3>

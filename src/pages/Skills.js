@@ -2,9 +2,9 @@ import React from 'react'
 
 const Skills = () => {
     return (
-        <div className='flex flex-col items-center justify-center bg-top-dec bg-no-repeat bg-contain divider2'>
-            <h1 className='font-heading text-2xl md:text-3xl text-center mt-16 md:mt-24 lg:mt-36 pb-6'>SkillS & QualificationS</h1>
-            <div className='flex flex-col items-start ml-5 md:ml-10'>
+        <div className='flex flex-col items-center justify-center bg-no-repeat bg-contain divider'>
+            <h1 className='font-heading text-2xl md:text-3xl text-center mt-8 pb-6'>SkillS & QualificationS</h1>
+            <div className='flex flex-col items-start ml-5 md:ml-10 max-w-6xl'>
                 <div className='flex flex-col items-start my-5 p-2'>
                     <h2 className='font-main text-xl md:text-2xl underline underline-offset-2'>Qualifications</h2>
                     <ul className='font-body list-disc ml-5'>
@@ -12,13 +12,13 @@ const Skills = () => {
                     </ul>
                 </div>
 
-                <div className='flex flex-col items-start my-5 p-2'>
+                {/* <div className='flex flex-col items-start my-5 p-2'>
                     <h2 className='font-main text-xl md:text-2xl underline underline-offset-2'>Courses</h2>
                     <ul className='font-body list-disc ml-5'>
                         <li>Pandas Data Analysis Bootcamp</li>
                         <li>Web Development Bootcamp</li>
                     </ul>
-                </div>
+                </div> */}
 
                 <div className='flex flex-col items-start mt-5 p-2'>
                     <h2 className='font-main text-xl md:text-2xl underline underline-offset-2'>Skills</h2>

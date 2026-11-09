@@ -7,24 +7,24 @@ import TextEntry from '../components/TextEntry'
 const ProfessionalExperience = () => {
 
     return (
-        <div className='flex flex-col bg-no-repeat bg-contain divider2'>
+        <div className='flex flex-col bg-no-repeat bg-contain divider2 items-center'>
             {/* mt-12 sm:mt-28 md:mt-36 lg:mt-48 */}
             <h1 className='font-heading text-xl md:text-2xl lg:text-4xl text-center font-bold text-black mt-4'>Professional Experience</h1>
 
             <TextEntry
-                header="Software Engineer/Computer Vision"
+                header="Software Engineer(with focus on Computer Vision)"
                 company="Deep Analytics"
                 timeline="01/10/2022 to 08/10/2026"
                 location="Montpelier, VT"
             />
-            <div className='flex flex-col md:flex-row justify-evenly'>
+            <div className='flex flex-col md:flex-row justify-center'>
                 <div className='flex flex-col items-top mx-10 mt-0 font-body'>
                     <h2 className='font-main text-lg m-2 underline underline-offset-4'>Responabilities in a nutshell</h2>
                     <ul className='list-disc mx-5'>
                         <li>Collaborating with teamates to execute technical work</li>
                         <li>Training & Evalutating Computer Vision models with Pytorch</li>
                         <li>Building & iterating on datasets for Computer Vision models</li>
-                        <li>Designing and implementing frontend interfaces</li>
+                        <li>Designing and implementing user interfaces</li>
                         <li>Building Android Apps from scratch</li>
                         <li>Optimizing ML model runtimes for inference on embedded platforms</li>
                     </ul>
@@ -36,9 +36,9 @@ const ProfessionalExperience = () => {
                 </div>
             </div>
             {/* <div className='bg-divider-1 bg-cover bg-no-repeat divider2 w-full' /> */}
-            <div className='flex flex-col mx-10 mt-0 font-body'>
+            <div className='flex flex-col mx-10 mt-0 font-body max-w-6xl '>
                 <h3 className='font-main text-lg my-2 underline underline-offset-4'>Brief Summary</h3>
-                <p className='italic font-bold my-5 mx-3'>TLDR: I work on every step of building a computer vision system - from training/testing to deployment on edge devices. I design user interfaced and backend code. I build datasets and tools to navigate them effectively. </p>
+                <p className='italic font-bold my-5 mx-3'>TLDR: I've worked on every step of building a computer vision system - from training/testing to deployment on edge devices. I designed user interfaced and backend code. I built and used a variety of tools to navigate datasets as a team. </p>
 
                 <p className='font-body text-m'>Deep Analytics is a small R&D startup based in Montpelier Vermont. I was hired as a Software Engineer, but have also spent a significant portion of my time in a Machine Learning/Data Science role.
                     <br />

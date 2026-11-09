@@ -3,7 +3,7 @@ import React from 'react'
 const TextEntry = (props) => {
     return (
 
-        <div className='flex flex-col items-center mt-6 sm:mt-10 md:mt-20 lg:mt-28 xl:mt-32'>
+        <div className='flex flex-col items-center mt-6 sm:mt-10'>
             <div className='m-3'>
                 <div className='font-body font-light text-center'>
                     <h2 className='text-xl md:text-2xl font-main underline underline-offset-2'>{props.header}</h2>

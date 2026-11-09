@@ -75,7 +75,7 @@ const Home = () => {
                 <SmallNavButton linkName="/resume" text="Resume" addStyle="hover:bg-blue-200" />
                 <SmallNavButton linkName="/bonus" text="Bonus" addStyle="hover:bg-blue-200" />
             </div>
-            <h2 className='hidden lg:flex font-main mt-5 mb-5 italic'>Fear of failure is my kraken.</h2>
+            <h2 className='hidden lg:flex font-main mt-5 mb-5 italic'>FFIMK.</h2>
         </div>
 
     )
