@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.706a4e8f.css",
-    "main.js": "/static/js/main.27f7c5e4.js",
+    "main.css": "/static/css/main.4f405fe4.css",
+    "main.js": "/static/js/main.70a0f2ef.js",
     "static/media/cali.jpeg": "/static/media/cali.690c8f932470431c2bd8.jpeg",
+    "static/media/ski.jpg": "/static/media/ski.30aa7703c86eae044488.jpg",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/irr.jpg": "/static/media/irr.eef618538ec4f8edf594.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
     "static/media/overland.jpg": "/static/media/overland.897316dc0e45fa0711aa.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
     "static/media/Osprey-3.jpg": "/static/media/Osprey-3.7dd708fe18832bb37211.jpg",
+    "static/media/resume.pdf": "/static/media/resume.3d81e8fe8c07d6db693d.pdf",
     "static/media/disc.jpg": "/static/media/disc.999ab0d2195b7048b906.jpg",
     "static/media/Osprey-2.jpg": "/static/media/Osprey-2.7a8d7b0a73529e67698f.jpg",
-    "static/media/resume.pdf": "/static/media/resume.f497e0dd42c8b0e0f503.pdf",
     "static/media/runner.png": "/static/media/runner.900a16416ef364f66fca.png",
     "static/media/profile.jpg": "/static/media/profile.673909b57140838020c4.jpg",
     "static/media/curious.jpg": "/static/media/curious.752d3adc3cdb4a0d7d1a.jpg",
@@ -28,18 +29,16 @@
     "static/media/seven_spiritual_laws.jpg": "/static/media/seven_spiritual_laws.08f1849771909df45e9d.jpg",
     "static/media/a_new_earth.jpg": "/static/media/a_new_earth.77bbec28bd2a9b9c487e.jpg",
     "static/media/crucial_conversations.jpg": "/static/media/crucial_conversations.a87fa7a7f61b5f46037d.jpg",
-    "static/media/top_dec.svg": "/static/media/top_dec.4bbe9ca4c944f729c29d.svg",
     "static/media/bot-dec.svg": "/static/media/bot-dec.9bdf322f58de7b4ae3b2.svg",
     "static/media/bot-dec2.svg": "/static/media/bot-dec2.39b374813a3b81925779.svg",
     "static/media/bot-dec3.svg": "/static/media/bot-dec3.74116e80b72c34d5e17a.svg",
-    "static/media/top-dec2.svg": "/static/media/top-dec2.eb3d9238195c48febb27.svg",
     "static/media/divider_1.svg": "/static/media/divider_1.a4ffe3f05e6ec5262285.svg",
     "index.html": "/index.html",
-    "main.706a4e8f.css.map": "/static/css/main.706a4e8f.css.map",
-    "main.27f7c5e4.js.map": "/static/js/main.27f7c5e4.js.map"
+    "main.4f405fe4.css.map": "/static/css/main.4f405fe4.css.map",
+    "main.70a0f2ef.js.map": "/static/js/main.70a0f2ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.706a4e8f.css",
-    "static/js/main.27f7c5e4.js"
+    "static/css/main.4f405fe4.css",
+    "static/js/main.70a0f2ef.js"
   ]
 }
