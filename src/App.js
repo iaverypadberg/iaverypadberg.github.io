@@ -12,10 +12,12 @@ import Impatience from './pages/writing/Impatience';
 import Skills from './pages/Skills';
 import Testing from './pages/Testing';
 import Resume from './pages/Resume';
+import ScrollToTop from './components/ScrollToTop';
 function App() {
   return (
     <div>
       <HashRouter >
+        <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />

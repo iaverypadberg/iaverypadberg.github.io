@@ -42,11 +42,11 @@ const Home = () => {
                 </Link>
             </div>
 
-
+{/* 
             <div className='mx-8 lg:hidden'>
                 <p className='font-body font-light text-2xl text-blue-900 text-center my-2 sm:text-2xl md:text-3xl lg:text-4xl'>Hello, I’m Isaac.</p>
                 <ResponsiveTextHeader text={<p className='text-left'>I live in Burlington Vermont, where I work as an <Link to="/bonus" className='font-extralight hover:opacity-0 ease-in-out duration-300'>atypical</Link> Software Engineer.</p>} />
-            </div>
+            </div> */}
 
             <Link to="/skills" className='hidden lg:flex flex-col justify-center items-center m-5 bg-sugarbush bg-cover bg-center lg:h-32 lg:w-4/5 ease-in duration-200 hover:opacity-90'>
                 <p className='font-main text-4xl text-white text-center z-10'>Skills & Qualifications</p>
@@ -61,8 +61,8 @@ const Home = () => {
 
                 <MainNavButton linkName="/professional-exp" text="Professional Experience" />
                 <MainNavButton linkName="/about" text="About" />
-                <MainNavButton linkName="/projects" text="Projects." />
-                <MainNavButton linkName="/books" text="Books & Writing..." />
+                <MainNavButton linkName="/projects" text="Projects" />
+                {/* <MainNavButton linkName="/books" text="Books & Writing..." /> */}
 
                 <div className='flex flex-row justify-evenly w-screen my-8'>
                     <SmallNavButton linkName="/contact" text="Contact" />
