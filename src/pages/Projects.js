@@ -22,7 +22,17 @@ const Projects = () => {
             <ProjectCard
                 header='Traffic Screening for Bikes'
                 date='10/10/2026'
-                body="An ongoing project focusing on identifying roads which cyclists should avoid. The main deliverable of this project is a website which allows users to upload their GPX route and overlay traffic data. This allows riders from out of town to see if they're routing onto potentially dangerous roads ahead of time."
+                body="An ongoing project focused on identifying roads which cyclists should avoid. The main deliverable of this project is a website which allows users to upload their GPX route and overlay traffic data. This allows new riders or those from out of town to see if they're routing onto potentially dangerous roads ahead of time."
+                body1="This website was built using PHP alongside the Laravel library. It's backed up by a PostgreSql database, uses Laravel livewire for the UI and comes with a fully featured authentication system. The beta version will be live soon and won't require any account creation, so stay tuned and go check it out!(Ill post a link once its live)"
+            />
+
+            <ProjectCard
+                header='Bike & Pedestrian counter'
+                date='11/12/2026'
+                linkName='Github'
+                github='https://github.com/iaverypadberg/bike_ped_counter'
+                body="Another ongoing project which has the end goal of being a mobile, low cost solution to counting and bikes and pedestrians. The town where I live recently put in a new bike path and there's been a fair amount of squawking about it. I happen to be on the Complete Streets Committee and thought that it would be a fun project to quantify bike and ped traffic on this new path. Sure, its about to be winter, but I've got some time and think this could be an asset to my community."
+                body1="Yolo26. C++. ONNXRuntime. RaspberryPi Zero 2W."
             />
 
             <ProjectCard
