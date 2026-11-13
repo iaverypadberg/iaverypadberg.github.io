@@ -19,7 +19,7 @@ const ProfessionalExperience = () => {
             />
             <div className='flex flex-col md:flex-row justify-center'>
                 <div className='flex flex-col items-top mx-10 mt-0 font-body'>
-                    <h2 className='font-main text-lg m-2 underline underline-offset-4'>Responabilities in a nutshell</h2>
+                    <h2 className='font-main text-lg m-2 underline underline-offset-4'>Responabilities</h2>
                     <ul className='list-disc mx-5'>
                         <li>Collaborating with teamates to execute technical work</li>
                         <li>Training & Evalutating Computer Vision models with Pytorch</li>
