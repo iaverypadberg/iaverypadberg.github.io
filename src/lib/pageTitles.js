@@ -18,7 +18,7 @@ const TITLES = {
     '/contact': 'Contact',
     '/bonus': 'Bonus',
     '/skills': 'Skills',
-    '/resume': 'Resume',
+    // '/resume': 'Resume',
     // '/construction': 'Under Construction',
     // '/testing': 'Testing',
 }

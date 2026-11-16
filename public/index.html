@@ -49,19 +49,6 @@
     -->
   <script data-goatcounter="https://iapadberg.goatcounter.com/count"
     data-goatcounter-settings='{"no_onload": true}' async src="//gc.zgo.at/count.js"></script>
-  <script>
-    // Append the visitor-count widget once count.js has loaded. Bail out after
-    // ~5s rather than polling forever when the script is blocked.
-    var gcTries = 0
-    var gcTimer = setInterval(function () {
-      if (window.goatcounter && window.goatcounter.visit_count) {
-        clearInterval(gcTimer)
-        window.goatcounter.visit_count({ append: 'body' })
-      } else if (++gcTries > 50) {
-        clearInterval(gcTimer)
-      }
-    }, 100)
-  </script>
 </body>
 
 </html>
