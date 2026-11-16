@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.7e298fa3.css",
-    "main.js": "/static/js/main.a0025a92.js",
+    "main.js": "/static/js/main.87a4b012.js",
     "static/media/cali.jpeg": "/static/media/cali.690c8f932470431c2bd8.jpeg",
     "static/media/ski.jpg": "/static/media/ski.30aa7703c86eae044488.jpg",
     "static/media/sugarbush_thin.jpg": "/static/media/sugarbush_thin.95e709edd998a1118f08.jpg",
     "static/media/irr.jpg": "/static/media/irr.eef618538ec4f8edf594.jpg",
     "static/media/bird2.jpg": "/static/media/bird2.045d45c62818126f86cd.jpg",
-    "static/media/resume.pdf": "/static/media/resume.f0d85d83582ce1261023.pdf",
     "static/media/overland.jpg": "/static/media/overland.897316dc0e45fa0711aa.jpg",
     "static/media/Osprey-1.jpg": "/static/media/Osprey-1.9eba1cd8d435a905272b.jpg",
     "static/media/Osprey-3.jpg": "/static/media/Osprey-3.7dd708fe18832bb37211.jpg",
+    "static/media/resume.pdf": "/static/media/resume.70fd481b264cd5896961.pdf",
     "static/media/disc.jpg": "/static/media/disc.999ab0d2195b7048b906.jpg",
     "static/media/Osprey-2.jpg": "/static/media/Osprey-2.7a8d7b0a73529e67698f.jpg",
     "static/media/runner.png": "/static/media/runner.900a16416ef364f66fca.png",
@@ -35,10 +35,10 @@
     "static/media/divider_1.svg": "/static/media/divider_1.a4ffe3f05e6ec5262285.svg",
     "index.html": "/index.html",
     "main.7e298fa3.css.map": "/static/css/main.7e298fa3.css.map",
-    "main.a0025a92.js.map": "/static/js/main.a0025a92.js.map"
+    "main.87a4b012.js.map": "/static/js/main.87a4b012.js.map"
   },
   "entrypoints": [
     "static/css/main.7e298fa3.css",
-    "static/js/main.a0025a92.js"
+    "static/js/main.87a4b012.js"
   ]
 }
