@@ -26,15 +26,7 @@
   <!-- <link rel="manifest" href="/site.webmanifest"> -->
 
 </head>
-<script data-goatcounter="https://iapadberg.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-<script>
-  var t = setInterval(function () {
-    if (window.goatcounter && window.goatcounter.visit_count) {
-      clearInterval(t);
-      window.goatcounter.visit_count({ append: 'body' });
-    }
-  }, 100);
-</script>
+
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -49,6 +41,27 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+  <!--
+      GoatCounter. `no_onload` suppresses the automatic pageview: count.js
+      ignores the URL hash, so under HashRouter every route would be recorded as
+      "/". src/components/ScrollToTop.js reports each route change by hand
+      instead, via src/lib/goatcounter.js.
+    -->
+  <script data-goatcounter="https://iapadberg.goatcounter.com/count"
+    data-goatcounter-settings='{"no_onload": true}' async src="//gc.zgo.at/count.js"></script>
+  <script>
+    // Append the visitor-count widget once count.js has loaded. Bail out after
+    // ~5s rather than polling forever when the script is blocked.
+    var gcTries = 0
+    var gcTimer = setInterval(function () {
+      if (window.goatcounter && window.goatcounter.visit_count) {
+        clearInterval(gcTimer)
+        window.goatcounter.visit_count({ append: 'body' })
+      } else if (++gcTries > 50) {
+        clearInterval(gcTimer)
+      }
+    }, 100)
+  </script>
 </body>
 
 </html>
