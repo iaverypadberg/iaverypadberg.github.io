@@ -27,6 +27,14 @@
 
 </head>
 <script data-goatcounter="https://iapadberg.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+  var t = setInterval(function () {
+    if (window.goatcounter && window.goatcounter.visit_count) {
+      clearInterval(t);
+      window.goatcounter.visit_count({ append: 'body' });
+    }
+  }, 100);
+</script>
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
